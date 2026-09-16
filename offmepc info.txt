@@ -25,3 +25,7 @@
 
 * **RU:** Приложение распространяется в виде стандартного установочного файла (.EXE) для Windows.
 * **EN:** The application is distributed as a standard executable installer (.EXE) for Windows.
+Site - http://offmepc.netlify.app/
+Telegram Channel - https://t.me/areamhheasy
+By Areamhh Programmer Studio
+
