@@ -1,31 +1,4 @@
-# OffMePC
-
-[RU] Удобная и минималистичная утилита для автоматического управления питанием компьютера по таймеру.
-[EN] A minimalist and intuitive desktop utility designed for automated PC power management.
-
----
-
-## Функционал / Features
-
-### 🇷🇺 Русский
-* **Гибкое управление питанием:** Позволяет настраивать выключение, перезагрузку или перевод компьютера в спящий режим строго в заданное время.
-* **Кастомизация интерфейса:** Встроенный выбор тем оформления, которые можно адаптировать под цветовую гамму вашей операционной системы.
-* **Мультиязычность:** Полная поддержка быстрого переключения языков прямо в меню настроек за один клик.
-* **Современный UI:** Минималистичный и интуитивно понятный графический интерфейс без лишних элементов.
-
-### 🇺🇸 English
-* **Flexible Power Management:** Easily schedule your PC to shut down, restart, or go into sleep mode strictly according to your schedule.
-* **UI Customization:** Features a built-in selection of visual themes to seamlessly match the color scheme of your Windows operating system.
-* **Multi-language Support:** Quickly switch between different interface languages directly from the settings menu.
-* **Modern & Clean UI:** A modern, minimalist graphical user interface with no unnecessary elements.
-
----
-
-## Установка / Installation
-
-* **RU:** Приложение распространяется в виде стандартного установочного файла (.EXE) для Windows.
-* **EN:** The application is distributed as a standard executable installer (.EXE) for Windows.
 Site - http://offmepc.netlify.app/
-Telegram Channel - https://t.me/areamhheasy
+Telegram Channel - https://t.me/areamhheasy 
 By Areamhh Programmer Studio
 
